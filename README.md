@@ -20,6 +20,20 @@ Aplicación web que te ayuda a organizar el juego del amigo secreto.
 4. Repite los pasos 2-3 para agregar más amigos
 5. Haz clic en "Sortear amigo" para seleccionar aleatoriamente
 
+## Vista Previa
+
+- Primero agregamos los nombres dentro del campo y tocamos añadir.
+
+![Vista previa de Amigo Secreto](assets/Imagen%20ejemplo%201.png)
+
+- Despues de añadir los nombres de los participantes el juego se vera algo parecido como se ve en la imagen.
+
+![Vista previa de Amigo Secreto](assets/Imagen%20ejemplo%202.png)
+
+- Despues de añadir los nombres de los participantes, pulsamos el boton de sortear amigo y el juego, aleatoriamente, elegira un nombre de la lista de participantes y lo mostrara.
+
+![Vista previa de Amigo Secreto](assets/Imagen%20ejemplo%203.png)
+
 ## Estructura del Proyecto
 
 - `index.html` - Estructura HTML
